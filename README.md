@@ -1,6 +1,6 @@
 # 💚(v-v) various-variable
 ### ChatGPT가 지어주는 변수명 - (학교 DBP과목 프로젝트)
-### [🔗기획서 보러가기](https://www.canva.com/design/DAFqRk2m3H8/adpLgxOymJV18aViM0C78g/view?utm_content=DAFqRk2m3H8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### [🔗기획서 보러가기](https://www.canva.com/design/DAFqRk2m3H8/gZJI0wAtU45SkZYz8hRduA/view?utm_content=DAFqRk2m3H8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb7537e7b87)
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
